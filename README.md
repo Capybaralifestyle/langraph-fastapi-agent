@@ -22,5 +22,4 @@ A FastAPI code generator that uses LangGraph workflows and Ollama with local LLM
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/langraph-fastapi-agent.git
-cd langraph-fastapi-agent
+https://github.com/Capybaralifestyle/langraph-fastapi-agent
